@@ -24,7 +24,7 @@ body{
     width: 500px;
     border: 5px solid grey;
     padding: 0px;
-    height: 500px;
+    height: 550px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -44,8 +44,13 @@ body{
   
   .spin{
     position: relative;
-    top: 470px;
-    left: 750px;
-    transform: scale(2.5);
-    border-radius: 50%;
+    top: 550px;
+    left: 390px;
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    border-radius: 12px;
+    border: black;
+    padding:none;
+    background-color: gray;
 }
