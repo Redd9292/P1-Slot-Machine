@@ -8,16 +8,35 @@ body{
     align-items: center;
     background: teal;
 }
-.name{
-    justify-content: center;
-}
-.slots {
+.slotmachine{
     position: relative;
-    width: 400px;
+    width: 500px;
     border: 5px solid grey;
     padding: 0px;
-    height: 350px;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
+
+}
+.slots {
+    position: relative;
+    width: 500px;
+    border: 5px solid grey;
+    padding: 0px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .reel {
+    position: relative;
+    width: 200px;
+    border: 5px solid grey;
+    padding: 0px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
   }
