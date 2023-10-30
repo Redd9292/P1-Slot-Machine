@@ -1,15 +1,14 @@
 html, body{
     height: 100%;
+    background-color: teal;
 }
 
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: teal;
-}
+
+
 .slotmachine{
     position: relative;
+    top:200px;
+    left:650px;
     width: 500px;
     border: 5px solid grey;
     padding: 0px;
@@ -17,35 +16,35 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
+
 .slots {
     position: relative;
+    top: 200px;
+    left: 650px;
     width: 500px;
     border: 5px solid grey;
     padding: 0px;
     height: 550px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: flex; 
+
 }
 
-  .reel {
+.reel {
     position: relative;
-    width: 200px;
+    top: 200px;
+    left: 650px;
+    width: 275px;
     border: 5px solid grey;
     padding: 0px;
-    height: 300px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 15px;
+    height: 400px;
+
+   
   }
-  
   .spin{
     position: relative;
-    top: 550px;
-    left: 390px;
+    top: 750px;
+    left: 1050px;
     width: 100px;
     height: 100px;
     border-color: black;
