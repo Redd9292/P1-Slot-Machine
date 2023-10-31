@@ -1,40 +1,43 @@
-html, body{
+
+   
+
+body{
     height: 100%;
     background-color: teal;
-}
-
-
-
-.slotmachine{
-    position: relative;
-    top:200px;
-    left:650px;
-    width: 500px;
-    border: 5px solid grey;
-    padding: 0px;
-    height: 50px;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+
+
+.slotmachine{
+
+  display: flex;
+  border: 3px solid grey;
+  width: 100%;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px;
+}
+
 .slots {
     position: relative;
-    top: 200px;
-    left: 650px;
     width: 500px;
     border: 5px solid grey;
     padding: 0px;
     height: 550px;
     display: flex; 
     margin:0;
+    align-items: center;
+    justify-content: center;
 
 }
 
 .reel {
     position: relative;
-    top: 50px;
-    left: 75px;
     width: 100px;
     height: 400px;
     border: 5px solid black;
@@ -44,14 +47,14 @@ html, body{
     background-position: 0 0;
     background-repeat: repeat-y;
     padding: 2px;
+    align-items: center;
+    justify-content: center;
     
     
 }
 
 .button-conatiner{
-    position: relative;
-    top: 50px;
-    left: 75px;
-    width: 100px;
-    height: 400px;
+display: flex;
+align-items: center;
+justify-content: center;
 }
