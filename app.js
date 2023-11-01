@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     function spinReels(wager) {
-        let spins = 6; // Number of spins
+        let spins = 16; // Number of spins
         let results = [];
 
         const spinInterval = setInterval(() => {
