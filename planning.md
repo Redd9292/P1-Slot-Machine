@@ -20,16 +20,18 @@
     1. Display the reels
     2. Display spin button
     3. Display wager digits
+    4. Include a background
 
 3. Spin
 
     1. Add event listeners
     2. Update wager values
     3. Calculate Win or loss
+    4. Find how to Sim a spin
 
 
 
 4. Calculate Win or Loss
 
     1. If 3 images in a row match it's a win if not a loss.
-    Use If() statements.
+    Use If() and else staments.
