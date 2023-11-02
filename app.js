@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (wager > 0) {
                 spinning = true;
                 spinReels(wager);
+                wagerInput.value = ''; // Reset wager value
             } else {
                 alert('Please enter a valid wager.');
             }

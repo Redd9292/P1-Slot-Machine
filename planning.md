@@ -3,7 +3,6 @@
 ## User Stories
     1. As a player, I would like to start the game when I am ready.
     2. As a player, I would like to be told about the wager feature.
-    3.(ICEBOX) As a player, I would like to be told about the minor, major and grand prizes.
 
 ## Wirefame
 
