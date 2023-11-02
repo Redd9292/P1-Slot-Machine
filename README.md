@@ -7,7 +7,7 @@
 
 ## Wirefame
 
-![](./Assets/P1%20Slot%20Machine.png)
+![](./Assets/Untitled%20drawing.png)
 
 ## Pseudocode
 

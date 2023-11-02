@@ -45,11 +45,7 @@ background-color: purple;
   border: 5px solid orangered;
   border-radius: 3px;
   overflow: hidden;
-  /*background-image:url(Assets/Screenshot\ 2023-10-30\ at\ 8.59.43\ PM.png);
-  background-position: 0 0;
-  background-repeat: repeat-y;*/
-  /*padding: 2px;*/
-font-size:5em;
+  font-size:5em;
   align-items: center;
   justify-content: center;
   background-color: purple;
