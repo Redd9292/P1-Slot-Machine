@@ -16,7 +16,7 @@
 
 ## Game Link:
 
-    Link: https://redd9292.github.io/P1-Slot-Machine/
+    1. https://redd9292.github.io/P1-Slot-Machine/
 
 ## Future Features
 
